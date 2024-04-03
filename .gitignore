@@ -1,0 +1,11 @@
+__pycache__/
+
+.~lock.vggsoundsync.csv#
+log/
+metadata/
+vggsound_raw/
+vggsoundsync/
+
+max_amplitude_values_test.txt
+results_test.txt
+vggsoundsync.csv
